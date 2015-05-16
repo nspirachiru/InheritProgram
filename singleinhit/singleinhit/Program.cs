@@ -11,7 +11,8 @@ namespace singleinhit
         static void Main(string[] args)
         {
             Console.WriteLine("hai");
-            Console.WriteLine("varun");
+            Console.WriteLine("hari");
+            Console.WriteLine("moorthy");
         }
     }
 }
