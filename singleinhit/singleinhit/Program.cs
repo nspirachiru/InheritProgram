@@ -10,7 +10,7 @@ namespace singleinhit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("haii");
+            Console.WriteLine("haiiii");
         }
     }
 }
