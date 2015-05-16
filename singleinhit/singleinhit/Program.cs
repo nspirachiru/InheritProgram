@@ -13,6 +13,7 @@ namespace singleinhit
             Console.WriteLine("hai");
             Console.WriteLine("hari");
             Console.WriteLine("moorthy");
+            Console.WriteLine("kanakam");
         }
     }
 }
